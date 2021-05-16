@@ -1,0 +1,12 @@
+
+POST http://localhost:5000/
+Content-Type: application/json
+
+{
+    "name":"shibin",
+    "age":"20",
+    "height":"6.0"
+}
+
+###
+GET http://localhost:5000/
