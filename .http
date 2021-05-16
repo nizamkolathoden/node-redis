@@ -3,7 +3,7 @@ POST http://localhost:5000/
 Content-Type: application/json
 
 {
-    "name":"shibin",
+    "name":"Goku",
     "age":"20",
     "height":"6.0"
 }
